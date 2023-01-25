@@ -1,0 +1,21 @@
+.tasks {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5%;
+}
+
+.tasks div {
+display: flex;
+}
+
+.tasks div p {
+    margin-right: 10px;
+    color: rgb(5, 152, 244);
+}
+
+
+.tasks .green {
+    color: rgb(4, 196, 4);
+}
